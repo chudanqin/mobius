@@ -1,0 +1,6 @@
+framework module libmobi {
+  umbrella header "libmobi.h"
+
+  export *
+  module * { export * }
+}
